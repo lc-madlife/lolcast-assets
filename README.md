@@ -13,7 +13,7 @@ LOLCAST 채팅 이펙트에 쓰는 무료 에셋입니다. 출처와 라이선�
 
 ## effects/christmas-choak/
 
-크리스마스콘 이펙트(7초, 30fps, 투명 배경). 초악 산타가 썰매를 타고 지나가며 초악b(하늘 빔)에서 초악8(하트)로 바뀝니다.
+크리스마스콘 이펙트(7초, 30fps, 투명 배경). 초악 산타가 썰매를 타고 지나가며 초악8(분홍 옷, 머리 위 하트)로 지나갑니다.
 
 | 파일 | 캔버스 | 비고 |
 |---|---|---|
@@ -27,7 +27,7 @@ LOLCAST 채팅 이펙트에 쓰는 무료 에셋입니다. 출처와 라이선�
 
 ## effects/newyear-choak/
 
-새해콘 이펙트(7초, 30fps, 투명 배경). 초악이 3·2·1 을 세고 자정에 샴페인을 터뜨린 뒤 불꽃놀이 아래에서 인사합니다.
+새해콘 이펙트(7초, 30fps, 투명 배경). 초악이 3·2·1 을 센 뒤 안경에서 민트색 빔을 쏘고, 불꽃놀이 아래에서 인사합니다.
 
 | 파일 | 캔버스 | 비고 |
 |---|---|---|
@@ -45,5 +45,5 @@ LOLCAST 채팅 이펙트에 쓰는 무료 에셋입니다. 출처와 라이선�
 ```
 https://cdn.jsdelivr.net/gh/lc-madlife/lolcast-assets@v1/effects/christmas-santa-tree.lottie
 https://cdn.jsdelivr.net/gh/lc-madlife/lolcast-assets@v2/effects/christmas-choak/christmas-choak.json
-https://cdn.jsdelivr.net/gh/lc-madlife/lolcast-assets@v3/effects/newyear-choak/newyear-choak.json
+https://cdn.jsdelivr.net/gh/lc-madlife/lolcast-assets@v4/effects/newyear-choak/newyear-choak.json
 ```
